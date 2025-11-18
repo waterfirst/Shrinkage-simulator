@@ -1,0 +1,5 @@
+{
+  "name": "PI Substrate Shrinkage Simulator",
+  "description": "A web application to visualize the shrinkage of a Polyimide (PI) substrate after Excimer Laser Annealing (ELA) and detachment from a glass carrier, based on parameters like ELA scan direction and the presence of a Block Metal Layer (BML).",
+  "requestFramePermissions": []
+}
